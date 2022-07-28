@@ -1,18 +1,0 @@
-€csklearn.linear_model._base
-LinearRegression
-q )q}q(X
-   fit_interceptqˆX	   normalizeqX
-   deprecatedqX   copy_XqˆX   n_jobsq NX   positiveq‰X   n_features_in_q	KX   coef_q
-cnumpy.core.multiarray
-_reconstruct
-q
-cnumpy
-ndarray
-qK …q
-Cbq‡qRq(KK…qcnumpy
-dtype
-qX   f8q‰ˆ‡qRq(KX   <qNNNJÿÿÿÿJÿÿÿÿK tqb‰CñÛowØˆO@qtqbX	   _residuesqcnumpy.core.multiarray
-scalar
-qhCWÏB?üÍ&Bq†qRqX   rank_qKX	   singular_q h
-hK …q!h‡q"Rq#(KK…q$h‰C‰OÉ9 @q%tq&bX
-   intercept_q'hhCàæî&ˆù¥@q(†q)Rq*X   _sklearn_versionq+X   1.0.2q,ub.
